@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mentoring2020", "Mentoring2020\Mentoring2020.csproj", "{9A8D1AB9-3D20-4BE5-81D8-7CF0519B6DD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A8D1AB9-3D20-4BE5-81D8-7CF0519B6DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8D1AB9-3D20-4BE5-81D8-7CF0519B6DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8D1AB9-3D20-4BE5-81D8-7CF0519B6DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8D1AB9-3D20-4BE5-81D8-7CF0519B6DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C937C1E-41A3-439E-9242-EFE4471413E6}
+	EndGlobalSection
+EndGlobal
